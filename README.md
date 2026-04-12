@@ -49,7 +49,7 @@ Here are some of the complex, real-world systems I've built and contributed to:
 
 ---
 
-### 📊 Development Metrics
+### Development Metrics
 
 <div align="center">
 
