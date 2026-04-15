@@ -56,15 +56,21 @@ Here are some of the complex, real-world systems I've built and contributed to:
 <!-- Profile Details & Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-sheikh&theme=github_dark" alt="Contribution Graph" width="100%" />
 
-<!-- Stats & Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohin-sheikh&theme=github_dark" alt="Stats Card" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohin-sheikh&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="49%" />
-
-<!-- Language Breakdown -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohin-sheikh&theme=github_dark" alt="Languages by Repo" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohin-sheikh&theme=github_dark" alt="Most Used Languages" width="49%" />
 
 </div>
+
+### LeetCode Progress
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/Profile-_sheikh_mohin-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_sheikh_mohin/)
+
+<img src="https://leetcard.jacoblin.cool/_sheikh_mohin?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="60%" />
+
+</div>
+
+*Actively solving DSA problems to strengthen backend system design fundamentals.*
+
 
 *   **I also write on -** [dev.to/mohinsheikh](https://dev.to/mohinsheikh)
 *   **I’m currently diving deeper into -** Advanced system design patterns and event-driven architectures.
