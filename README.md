@@ -4,7 +4,7 @@
 
 Nagpur, India | [mohinsheikh2011@gmail.com](mailto:mohinsheikh2011@gmail.com)
 
-I'm a results-driven backend developer with **~4.5 years of experience** specializing in the **Node.js ecosystem**. I architect and build high-availability, scalable backend systems using **TypeScript, PostgreSQL/MongoDB, and AWS cloud services**. I thrive on translating complex business requirements into robust, maintainable code, with a focus on performance optimization and system reliability.
+I'm a results-driven backend developer with **~5 years of experience** specializing in the **Node.js ecosystem**. I architect and build high-availability, scalable backend systems using **TypeScript, PostgreSQL/MongoDB, and AWS cloud services**. I thrive on translating complex business requirements into robust, maintainable code, with a focus on performance optimization and system reliability.
 
 ---
 
