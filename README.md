@@ -37,7 +37,7 @@ I'm a results-driven backend developer with **~4.5 years of experience** special
 
 ### Key Project Experience
 
-Here are some of the complex, real-world systems I've built and contributed to:
+Here are some of the complex, real-world systems I've built and contributed to
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
