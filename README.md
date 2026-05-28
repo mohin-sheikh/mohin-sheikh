@@ -65,7 +65,7 @@ Here are some of the complex, real-world systems I've built and contributed to
 
 [![LeetCode](https://img.shields.io/badge/Profile-_sheikh_mohin-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_sheikh_mohin/)
 
-<img src="https://leetcard.jacoblin.cool/_sheikh_mohin?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="60%" />
+<img src="https://leetcard.jacoblin.cool/_sheikh_mohin?theme=dark&font=JetBrains%20Mono&hide=heatmap" alt="LeetCode Stats" width="60%" />
 
 </div>
 
