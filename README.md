@@ -49,16 +49,6 @@ Here are some of the complex, real-world systems I've built and contributed to
 
 ---
 
-### Development Metrics
-
-<div align="center">
-
-<!-- Profile Details & Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohin-sheikh&theme=github_dark" alt="Contribution Graph" width="100%" />
-
-
-</div>
-
 ### LeetCode Progress
 
 <div align="center">
